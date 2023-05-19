@@ -1,0 +1,34 @@
+.container{
+  width: 60% !important;
+  background-color: #fff;
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
+  margin: 30px auto 10px auto !important;
+  min-height: 100vh;
+}
+
+.Main-Container{
+  padding: 5px;
+  background:#f9fbfd;
+}
+
+.ql-toolbar.ql-snow{
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  border-radius: 40px;
+  border: 1px solid #edf2fa;
+  padding-top: 10px;
+  margin-left: 0.7rem;
+  margin-right: 5rem;
+  top: 0;
+  z-index: 1;
+  background: #edf2fa;
+  box-shadow: 0 0 5px 0 rgba(206, 204, 204, 0);
+}
+
+.Menu {
+  margin-top: 8.6rem;
+  height: 1.5rem;
+  width: 1.5rem;
+  color: rgb(57, 56, 56);
+}

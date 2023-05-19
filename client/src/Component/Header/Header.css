@@ -1,0 +1,152 @@
+.Container{
+    display: flex;
+    height: 4.5rem;
+     background: #f9fbfd;
+    
+}
+
+.docs-branding-document{
+    margin-top: 1rem;
+    margin-left: 1rem;
+   
+}
+.Docs-input-document{
+    margin-left: 1rem;  
+    display: inline-block;
+}
+.Input {
+  margin-top: 17px;
+  margin-bottom: -7px;
+  border-radius: 5px;
+  display: inline-block;
+}
+.text {
+  font-weight: bold;
+  padding: 3px;
+  margin-left: 7px;
+}
+.Docs-menu-option{
+    display: flex;
+    align-items: center;
+    font-size: small;
+    justify-content: space-between;
+    gap: 15px;
+    margin-top: -4px;
+    
+}
+.Docs-badge{
+    display: flex;
+    position: absolute;
+    margin-left: 11rem;
+    margin-top: -0.98rem;
+    
+    
+}
+
+.img{
+    font-size: 2rem !important;
+}
+
+
+
+.title-bar-Buttons{
+    margin-right: 4.6rem;
+    margin-top: 0.5rem;
+    height: 60px;
+    align-items: center;
+    display: flex;
+    padding: 0 12px 0 16px;
+    top: 0;
+    position: absolute;
+    right: 0;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.CommentButton{
+    height: 30px;
+    width: 30px;
+    margin-right: 2.3rem;
+}
+.VideoButton{
+    height: 30px;
+    width: 30px;
+}
+.ShareButton{
+    height: 2.3rem;
+    width: 6rem;
+    border-radius: 20px;
+    background: #a2c7ff;
+    border: 1px solid #96bffd;
+    text-shadow: black;
+}
+
+.Lock{
+    margin-right: 10px;
+}
+.dropdown {
+  margin-right: 2rem;
+}
+.Sidebar {
+    margin-right: 0.6rem;
+    margin-top: 0.5rem;
+    height: 100vh;
+    gap: 1rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 0 12px 0 16px;
+    top: 0;
+    position: absolute;
+    right: 0;
+    box-sizing: border-box;
+    
+  
+}
+
+.Avatar1{
+   margin-left: 1.6rem;
+   height: 2.4rem;
+   width: 2.4rem;
+   margin-top: 0.4rem;
+
+}
+
+.Avatar2{
+    height: 2.5rem;
+    width: 2.5rem;
+    margin-left: 2.6rem;
+    margin-top: 0.3rem;
+}
+
+.Avatar3{
+    height: 1.9rem;
+    width: 1.9rem;
+    margin-left: 2.6rem;
+    margin-top: 1rem;
+}
+.Avatar4{
+    height: 1.7rem;
+    width: 1.7rem;
+    margin-left: 2.6rem;
+    margin-top: 1.4rem;
+}
+.Avatar5{
+    height: 1.4rem;
+    width: 1.4rem;
+    margin-left: 2.6rem;
+    margin-top: 1.5rem;
+}
+.Avatar6{
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-left: 2.6rem;
+    margin-top: 2rem;
+}
+
+.Add{
+    height: 1.2rem;
+    width: 1.2rem;
+    margin-left: 2.6rem;
+    margin-top: 5rem;
+}
