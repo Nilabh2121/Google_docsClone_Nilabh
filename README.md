@@ -2,6 +2,8 @@
 
 A Google Docs clone built with React, utilizing the `useEffect` hook and Quill for the text editor toolbar.
 
+Link of the Project -https://googledocs-nilabh.netlify.app/
+
 ![Google Docs Clone Screenshot](SS.png)
 
 
