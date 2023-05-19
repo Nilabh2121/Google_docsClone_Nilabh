@@ -2,7 +2,7 @@
 
 A Google Docs clone built with React, utilizing the `useEffect` hook and Quill for the text editor toolbar.
 
-![Google Docs Clone Screenshot](screenshot.png)
+![Google Docs Clone Screenshot](Screenshot 2023-05-20 at 4.38.48 AM.png)
 
 
 
